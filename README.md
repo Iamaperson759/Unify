@@ -1,17 +1,26 @@
 # Unify
 
-![Testing](https://img.shields.io/badge/platform-kicad-green?style=for-the-badge) ![Built for Fusion360](https://img.shields.io/badge/platform-Fusion360-green?style=for-the-badge)
+![Built for KiCad](https://img.shields.io/badge/platform-kicad-green?style=for-the-badge) ![Built for Fusion360](https://img.shields.io/badge/platform-Fusion360-green?style=for-the-badge)
 
 Welcome to Unify, an innovative open-source docking station designed to streamline connectivity for electronic devices. Docking stations can be used to connect laptops, smartphones, desktops, mass storage devices, and more. Unify is the result of meticulous design and engineering, aimed at empowering users with a versatile and reliable docking solution.
 
 ## Features
 
-  - 3 USB-C Ports
-  - 2 USB Type A Gen 3.1 Ports
+**Ports**
+
+  - 3 USB Type-C Ports
+  - 2 USB Type-A Gen 3.1 Ports
+  - 1 3.5mm Audio Jack
+  - 1 Ethernet Port
   - 1 DisplayPort
   - 1 HDMI Port
   - 1 NVME SSD Connector
   - 1 SD Connector
+  - 1 microSD Connector
+
+**Functionality**
+
+The USB Type-C and USB Type-A Ports will have SuperSpeed+ functionality, meaning they can transfer data at 10 Gbps. Two of the USB Type-C ports will have PD functionality as well, meaning they can provide 20 Volts at 5 Amps (100 Watts). The other USB Type-C port can provide 5 Volts at 3 Amps (15 Watts), while the USB Type-A ports can provide 5 Volts at 900 milliAmps (4.5 Watts). 
 
 ## Utility
 
