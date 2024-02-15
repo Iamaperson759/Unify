@@ -1,6 +1,6 @@
 # Unify
 
-![Built for KiCad](https://img.shields.io/badge/platform-kicad-green?style=for-the-badge)
+![Built for KiCad](https://img.shields.io/badge/platform-kicad-green?style=for-the-badge) ![Built for Fusion360](https://img.shields.io/badge/platform-Fusion360-green?style=for-the-badge)
 
 Welcome to Unify, an innovative open-source docking station designed to streamline connectivity for electronic devices. Docking stations can be used to connect laptops, smartphones, desktops, mass storage devices, and more. Unify is the result of meticulous design and engineering, aimed at empowering users with a versatile and reliable docking solution.
 
@@ -19,7 +19,7 @@ Welcome to Unify, an innovative open-source docking station designed to streamli
 
 **About Me**
 
-This is an open-source docking station that I made over January Break. I am in high school (recently got accepted to MIT) and I am learning Electrical Engineering, and I thought this would be a great project to expand my knowledge about a large number of connectors and protocols.
+This is an open-source docking station that I made around my January Break. I am in high school (recently got accepted to MIT) and I am learning Electrical Engineering, and I thought this would be a great project to expand my knowledge about a large number of connectors and protocols. I have designed a few other circuit boards before, but nothing as complex as this. I have made this project open-source so that anyone who needs a docking station can make their own, but mainly so that others learning electrical engineering can have a free reference design.
 
 **License**
 
