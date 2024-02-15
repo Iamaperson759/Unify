@@ -20,7 +20,7 @@ Welcome to Unify, an innovative open-source docking station designed to streamli
 
 **Functionality**
 
-The USB Type-C and USB Type-A Ports will have SuperSpeed+ functionality, meaning they can transfer data at 10 Gbps. Two of the USB Type-C ports will have PD functionality as well, meaning they can provide 20 Volts at 5 Amps (100 Watts). The other USB Type-C port can provide 5 Volts at 3 Amps (15 Watts), while the USB Type-A ports can provide 5 Volts at 900 milliAmps (4.5 Watts). The ethernet port has speeds up to 10 Gbps. The DisplayPort and HDMI Ports can run 4K video at 60 Hz each or up to 4K video at 30 Hz if used in dual mode. 
+The USB Type-C and USB Type-A ports will have SuperSpeed+ functionality, meaning they can transfer data at 10 Gigabits per second (Gbps). Two of the USB Type-C ports will have PD functionality as well, meaning they can provide 20 Volts at 5 Amps (100 Watts). The other USB Type-C port can provide 5 Volts at 3 Amps (15 Watts), while the USB Type-A ports can provide 5 Volts at 900 milliAmps (4.5 Watts). The ethernet port will be CAT6, which has speeds up to 10 Gbps. The DisplayPort and HDMI ports can run 4K video at 60 Hz each. The SSD connector will be an NVME M.2 slot, but speeds depend on the drive used and the device connected. The SD and microSD ports will be UHS-II which has read and write speeds of up to 312 Megabytes per second. 
 
 ## Utility
 
