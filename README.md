@@ -21,8 +21,10 @@ This is an open-source docking station that I made over January Break. I am in h
 
 **License**
 
-This project is created under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license (CC BY-NC-SA 4.0), which states the following:
-  - Free sharing and redistributing of the material through any medium or format.
-  - Free remixing, transforming, and building upon the material, but if you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original. 
-  - You must give appropriate credit, provide a link to the material, and indicate any changes that were made. You may do this in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-  - You may not use the material for commercial purposes.
+This project is created under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license (CC BY-NC-SA 4.0), which has the following:
+  - Permissions:
+      - Free sharing and redistributing of the material through any medium or format.
+      - Free remixing, transforming, and building upon the material, but if you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+  - Limitations:
+      - You must give appropriate credit, provide a link to the material, and indicate any changes that were made. You may do this in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+      - You may not use the material for commercial purposes.
