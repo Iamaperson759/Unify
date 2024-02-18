@@ -1,21 +1,21 @@
 USB Type-C:
 
 > Port:
->> USB Type-C Port - [DX07B024JJ2R1500](https://www.digikey.com/en/products/detail/jae-electronics/DX07B024JJ2R1500/5395887)
->> CC Controller - [TUSB321AI](https://www.ti.com/product/TUSB321AI#features)
+>> USB Type-C Port - DX07B024JJ2R1500 (https://www.digikey.com/en/products/detail/jae-electronics/DX07B024JJ2R1500/5395887)
+>> CC Controller - TUSB321AI (https://www.ti.com/product/TUSB321AI#features)
 
 > Power:
->> PD Controller - [TPS65987DDK](https://www.ti.com/product/TPS65987DDK)
->> PD Manager and PHY - [TUSB422](https://www.ti.com/product/TUSB422)
->> FET - [PMPB29XPE,115](https://www.digikey.com/en/products/detail/nexperia-usa-inc/PMPB29XPE-115/4021007)
->> Overvoltage Protection - [TPS2597](https://www.ti.com/product/TPS2597)
->> Short to VBUS Protection - [TPD4S311A](https://www.ti.com/product/TPD4S311A#description)
->> Gate Driver - [UCC27624](https://www.ti.com/product/UCC27624)
+>> PD Controller - TPS65987DDK (https://www.ti.com/product/TPS65987DDK)
+>> PD Manager and PHY - TUSB422 (https://www.ti.com/product/TUSB422)
+>> FET - PMPB29XPE,115 (https://www.digikey.com/en/products/detail/nexperia-usa-inc/PMPB29XPE-115/4021007)
+>> Overvoltage Protection - TPS2597 (https://www.ti.com/product/TPS2597)
+>> Short to VBUS Protection - TPD4S311A (https://www.ti.com/product/TPD4S311A#description)
+>> Gate Driver - UCC27624 (https://www.ti.com/product/UCC27624)
 
 > Data:
->> Hub - [TUSB8043A](https://www.ti.com/product/TUSB8043A)
->> USB 3.0 PHY - [TUSB9261](https://www.ti.com/product/TUSB9261)
->> USB 3.1 Mux - [TMUXHS4212](https://www.ti.com/product/TMUXHS4212)
->> Alternate Mode Mux - [TUSB1046-DCI](https://www.ti.com/product/TUSB1046-DCI)
->> USB 2.0 PHY - [TUSB1210](https://www.ti.com/product/TUSB1210)
->> USB 2.0 Mux - [TS3USB221A](https://www.ti.com/product/TS3USB221A)
+>> Hub - TUSB8043A (https://www.ti.com/product/TUSB8043A)
+>> USB 3.0 PHY - TUSB9261 (https://www.ti.com/product/TUSB9261)
+>> USB 3.1 Mux - TMUXHS4212 (https://www.ti.com/product/TMUXHS4212)
+>> Alternate Mode Mux - TUSB1046-DCI (https://www.ti.com/product/TUSB1046-DCI)
+>> USB 2.0 PHY - TUSB1210 (https://www.ti.com/product/TUSB1210)
+>> USB 2.0 Mux - TS3USB221A (https://www.ti.com/product/TS3USB221A)
