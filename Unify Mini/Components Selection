@@ -30,6 +30,10 @@ USB Type-C Section:
 >>> Overvoltage protection by shorting to ground if the voltage rises too high
 >>> Link: https://www.ti.com/product/TPD4S311A#description
 
+>> ESD Protection Diodes - TPD6E05U06
+>>> 6 channel protection diode
+>>> Link: https://www.ti.com/product/TPD6E05U06#params
+
 >> Gate Driver - UCC27624
 >>> Control the FET output voltage and amperage
 >>> Link: https://www.ti.com/product/UCC27624
@@ -61,3 +65,36 @@ USB Type-C Section:
 >> USB 2.0 Mux - TS3USB221A
 >>> Supports USB 2.0 up to 480 Mbps
 >>> Link: https://www.ti.com/product/TS3USB221A
+
+USB Type-A Section:
+
+> Port:
+
+>> USB Type-A Port - AUSB1-AFN-BTP1
+>>> USB 3.2 Gen 2
+>>> Supports SuperSpeed+
+>>> Link: https://www.digikey.com/en/products/detail/assmann-wsw-components/AUSB1-AFN-BTP1/5253465
+
+> Power:
+
+>> FET - PMPB29XPE,115
+>>> 5V - 20V at 5A
+>>> Link: https://www.digikey.com/en/products/detail/nexperia-usa-inc/PMPB29XPE-115/4021007
+
+>> ESD Protection Diodes - TPD6E05U06
+>>> 6 channel protection diode
+>>> Link: https://www.ti.com/product/TPD6E05U06#params
+
+>> Overvoltage Protection - TPS2597
+>>> 2.7V - 23V, overvoltage protection
+>>> Link: https://www.ti.com/product/TPS2597
+
+> Data:
+
+>> USB 3.0 PHY - TUSB9261
+>>> SuperSpeed USB 3.0 compliant
+>>> Link: https://www.ti.com/product/TUSB9261
+
+>> USB 3.1 Mux - TMUXHS4212
+>>> Supports USB 3.2 up to 10 Gbps
+>>> Link: https://www.ti.com/product/TMUXHS4212
