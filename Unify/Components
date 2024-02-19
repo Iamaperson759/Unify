@@ -1,1 +1,100 @@
+USB Type-C Section:
 
+> Port:
+
+>> USB Type-C Port - DX07B024JJ2R1500 
+>>> USB 3.2 Gen 2
+>>> Supports SuperSpeed+
+>>> Link: https://www.digikey.com/en/products/detail/jae-electronics/DX07B024JJ2R1500/5395887
+
+> Power:
+
+>> PD Controller - TPS25750
+>>> Internal power path of 20V 5A or 5V 3A
+>>> Link: https://www.ti.com/product/TPS25750
+
+>> PD Manager, PHY, and CC Controller - TUSB422
+>>> Integrated VCONN switch, CC functionality, PD Management, and PD PHY
+>>> 10 Gbps
+>>> Link: https://www.ti.com/product/TUSB422
+
+>> FET - PMPB29XPE,115
+>>> 5V - 20V at 5A
+>>> Link: https://www.digikey.com/en/products/detail/nexperia-usa-inc/PMPB29XPE-115/4021007
+
+>> Overvoltage Protection - TPS2597
+>>> 2.7V - 23V, overvoltage protection
+>>> Link: https://www.ti.com/product/TPS2597
+
+>> Short to VBUS Protection - TPD4S311A
+>>> Overvoltage protection by shorting to ground if the voltage rises too high
+>>> Link: https://www.ti.com/product/TPD4S311A#description
+
+>> ESD Protection Diodes - TPD6E05U06
+>>> 6 channel protection diode
+>>> Link: https://www.ti.com/product/TPD6E05U06#params
+
+>> Gate Driver - UCC27624
+>>> Control the FET output voltage and amperage
+>>> Link: https://www.ti.com/product/UCC27624
+
+> Data:
+
+>> Hub - TUSB8043A
+>>> Supports USB 3.2 Gen1 and USB 2.0
+>>> I2C functionality
+>>> Link: https://www.ti.com/product/TUSB8043A
+
+>> USB 3.0 PHY - TUSB9261
+>>> SuperSpeed USB 3.0 compliant
+>>> Link: https://www.ti.com/product/TUSB9261
+
+>> USB 3.1 Mux - TMUXHS4212
+>>> Supports USB 3.2 up to 10 Gbps
+>>> Link: https://www.ti.com/product/TMUXHS4212
+
+>> Alternate Mode Mux - TUSB1046-DCI
+>>> Supports USB 3.1 SuperSpeed+ at 10 Gbps
+>>> Handles DisplayPort 1.4 up to 8.1 Gbps
+>>> Link: https://www.ti.com/product/TUSB1046-DCI
+
+>> USB 2.0 PHY - TUSB1210
+>>> Supports USB 2.0 up to 480 Mbps
+>>> Link: https://www.ti.com/product/TUSB1210
+
+>> USB 2.0 Mux - TS3USB221A
+>>> Supports USB 2.0 up to 480 Mbps
+>>> Link: https://www.ti.com/product/TS3USB221A
+
+USB Type-A Section:
+
+> Port:
+
+>> USB Type-A Port - AUSB1-AFN-BTP1
+>>> USB 3.2 Gen 2
+>>> Supports SuperSpeed+
+>>> Link: https://www.digikey.com/en/products/detail/assmann-wsw-components/AUSB1-AFN-BTP1/5253465
+
+> Power:
+
+>> FET - PMPB29XPE,115
+>>> 5V - 20V at 5A
+>>> Link: https://www.digikey.com/en/products/detail/nexperia-usa-inc/PMPB29XPE-115/4021007
+
+>> ESD Protection Diodes - TPD6E05U06
+>>> 6 channel protection diode
+>>> Link: https://www.ti.com/product/TPD6E05U06#params
+
+>> Overvoltage Protection - TPS2597
+>>> 2.7V - 23V, overvoltage protection
+>>> Link: https://www.ti.com/product/TPS2597
+
+> Data:
+
+>> USB 3.0 PHY - TUSB9261
+>>> SuperSpeed USB 3.0 compliant
+>>> Link: https://www.ti.com/product/TUSB9261
+
+>> USB 3.1 Mux - TMUXHS4212
+>>> Supports USB 3.2 up to 10 Gbps
+>>> Link: https://www.ti.com/product/TMUXHS4212
