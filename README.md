@@ -2,7 +2,7 @@
 
 ![Built for KiCad](https://img.shields.io/badge/platform-kicad-green?style=for-the-badge) ![Built for Fusion360](https://img.shields.io/badge/platform-Fusion360-green?style=for-the-badge)
 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en">
-<img alt="License" src="https://img.shields.io/badge/license-CC BY-NC-SA 4.0-green?style=for-the-badge"/>
+<img alt="License" src="https://img.shields.io/badge/platform-Fusion360-green?style=for-the-badge"/>
 </a>
 
 Welcome to Unify, an innovative open-source docking station designed to streamline connectivity for electronic devices. Docking stations can be used to connect laptops, smartphones, desktops, mass storage devices, and more. Unify is the result of meticulous design and engineering, aimed at empowering users with a versatile and reliable docking solution.
